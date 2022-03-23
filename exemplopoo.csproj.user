@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="E:\Raphael%28ETEC_3_Semestre%29\Aula de PI 3 semestre\Form1.cs%28designe%29">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="E:\Raphael(ETEC_3_Semestre)\Aula de PI 3 semestre\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
